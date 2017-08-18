@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "WISdom01!";
+$password = "";
 $dbname = "hng";
 
 // Create connection
