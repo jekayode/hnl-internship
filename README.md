@@ -1,4 +1,4 @@
-# hnl-internship
+# HotelsNG-Developer Internship
 HotelsNG Internship Project
 
 # What I have learnt:
